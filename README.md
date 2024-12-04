@@ -61,7 +61,7 @@ This project demonstrates how to use Amazon QuickSight to analyze and visualize 
    ![Netflix Titles by Year](./Images/Netflix_Titles_Year.png)
 
 2. **Dashboard Layout**
-   ![Dashboard](./Images/Dashboard_Layout.png)
+   ![Dashboard](./Images/Dashboard.png)
 
 ---
 
