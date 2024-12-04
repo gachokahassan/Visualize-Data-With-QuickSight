@@ -1,4 +1,8 @@
-# Visualize Data with Amazon QuickSight
+# Visualize Data with Amazon QuickSight 📊 
+
+[![AWS](https://img.shields.io/badge/AWS-100000?style=flat&logo=amazon&logoColor=FFFFFF&labelColor=5C5C5C&color=FF7300)](https://docs.aws.amazon.com/quicksight/latest/user/signing-up.html)
+[![S3](https://img.shields.io/badge/AWS_S3-100000?style=flat&logo=AmazonS3&logoColor=white&labelColor=494949&color=569A31)](https://aws.amazon.com/s3/)
+[![S3](https://img.shields.io/badge/AWS_Quicksight-100000?style=flat&logo=QuickLook&logoColor=white&labelColor=494949&color=22A2E3)](https://aws.amazon.com/quicksight/)
 
 **Dashboard Layout**  
 ![Dashboard](./Images/Dashboard.png)
