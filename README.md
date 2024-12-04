@@ -1,5 +1,10 @@
 # Visualize Data with Amazon QuickSight
 
+**Dashboard Layout**
+   ![Dashboard](./Images/Dashboard.png)
+
+---
+
 ## Project Overview
 This project demonstrates how to use Amazon QuickSight to analyze and visualize data stored in an S3 bucket. By leveraging QuickSight's intuitive interface, I created interactive dashboards that offer insights into release trends for Netflix titles.
 
@@ -60,8 +65,8 @@ This project demonstrates how to use Amazon QuickSight to analyze and visualize 
 1. **Visualization: Netflix Titles by Release Year**
    ![Netflix Titles by Year](./Images/Netflix_Titles_Year.png)
 
-2. **Dashboard Layout**
-   ![Dashboard](./Images/Dashboard.png)
+2. **Data Flow**
+   ![Data Flow](./Images/Workflow.png)
 
 ---
 
