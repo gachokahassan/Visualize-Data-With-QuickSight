@@ -93,10 +93,11 @@ This project demonstrates the process of using Amazon QuickSight, a powerful dat
 
 ## Community and Contribution
 
-This project was created as part of the [NextWork](https://link.nextwork.org/app?utm_source=app&utm_medium=nav&utm_campaign=referral) community.  
-The main contributor to this project is **Natasha Ong** [LinkedIn](https://www.linkedin.com/in/natasha-ong)
-.  
-Thank you for your support and guidance throughout this journey!
+This project was developed with guidance and collaboration from the [NextWork](https://link.nextwork.org/app?utm_source=app&utm_medium=nav&utm_campaign=referral) community—a vibrant platform dedicated to empowering professionals in leveraging cutting-edge technologies, including AWS, to drive innovation and success.
+
+Special recognition goes to **Natasha Ong** ([LinkedIn](https://www.linkedin.com/in/natasha-ong)), whose mentorship and expertise in AWS and data visualization were pivotal in shaping the direction and outcomes of this project.
+
+Gratitude to the entire NextWork community for fostering a supportive and collaborative environment that inspires professionals to deepen their AWS knowledge and achieve technical excellence.
 
 ---
 
