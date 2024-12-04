@@ -4,14 +4,15 @@
 [![S3](https://img.shields.io/badge/AWS_S3-100000?style=flat&logo=AmazonS3&logoColor=white&labelColor=494949&color=569A31)](https://aws.amazon.com/s3/)
 [![S3](https://img.shields.io/badge/AWS_Quicksight-100000?style=flat&logo=QuickLook&logoColor=white&labelColor=494949&color=22A2E3)](https://aws.amazon.com/quicksight/)
 
-**Dashboard Layout**  
-![Dashboard](./Images/Dashboard.png)
-
----
 
 ## Project Overview
 
 This project demonstrates the process of using Amazon QuickSight, a powerful data visualization tool, to analyze and visualize Netflix's catalog data stored in an S3 bucket. By leveraging QuickSight’s intuitive features, I created an interactive dashboard that reveals insights into Netflix’s release trends, focusing on the distribution of movies and TV shows by release year and type.
+
+---
+
+**Dashboard Layout**  
+![Dashboard](./Images/Dashboard.png)
 
 ---
 
