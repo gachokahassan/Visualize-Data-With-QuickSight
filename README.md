@@ -88,8 +88,9 @@ This project demonstrates the process of using Amazon QuickSight, a powerful dat
 
 ## Community and Contribution
 
-This project was created as part of the **NextWork** community.  
-The main contributor to this project is **Natasha Ong**.  
+This project was created as part of the **NextWork** [Website] (https://link.nextwork.org/app?utm_source=app&utm_medium=nav&utm_campaign=referral) community.  
+The main contributor to this project is **Natasha Ong** [LinkedIn](https://www.linkedin.com/in/natasha-ong)
+.  
 Thank you for your support and guidance throughout this journey!
 
 ---
